@@ -483,9 +483,18 @@ body{
     .sitenav-del-2{
         display: none;
     }
+
+    .sale-buttons span{
+        display: none;
+    }
 }
 
 @media (max-width: 500px) {
+
+    .hero-content{
+        padding-top: 3.2rem;
+    }
+
     .hero-img{
         display: none;
     }   
